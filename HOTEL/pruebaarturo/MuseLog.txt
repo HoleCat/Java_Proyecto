@@ -1,0 +1,20 @@
+Logging in build 2018.1.0.266 started at: Sun May 13 12:17:18 2018
+========================================
+[00:40:21.563] 12:57:43.714 | Beginning SaveAs of 'Sitio Web-1' to file 'C:\Users\Arturo\Google Drive\Cibertec\Arquitectura de entorno web\Diagrama - Tecnologías para el desarrollo de software (Trabajo del ciclo).muse' highest UID:225
+[00:40:24.188] 12:57:46.353 | SaveAs complete for file 'C:\Users\Arturo\Google Drive\Cibertec\Arquitectura de entorno web\Diagrama - Tecnologías para el desarrollo de software (Trabajo del ciclo).muse' file size:622592 mod Date:Sun May 13 12:57:46 GMT-0500 2018 highest UID:225
+[00:42:24.610] 12:59:46.771 | HTMLExport Diagrama - Tecnologías para el desarrollo de software (Trabajo del ciclo)(12 pages) to 'diagrama.com' completed with 0 warnings.
+[01:28:58.391] 13:46:20.559 | quitWithUI:Quitting Application. Called by: 
+[01:29:05.235] 13:46:27.408 | Beginning Save for file 'C:\Users\Arturo\Google Drive\Cibertec\Arquitectura de entorno web\Diagrama - Tecnologías para el desarrollo de software (Trabajo del ciclo).muse' highest UID:225
+[01:29:06.282] 13:46:28.449 | Save complete for file 'C:\Users\Arturo\Google Drive\Cibertec\Arquitectura de entorno web\Diagrama - Tecnologías para el desarrollo de software (Trabajo del ciclo).muse' file size:622592 mod Date:Sun May 13 13:46:27 GMT-0500 2018 highest UID:225
+[01:29:06.969] 13:46:29.145 | Quitting Application after 88.9 minutes. Called by: 
+[01:29:17.219] Logging shutdown normally
+
+==========
+Logging ended at: Sun May 13 13:46:40 2018
+
+Logging in build 2018.1.0.266 started at: Fri May 25 22:02:39 2018
+========================================
+
+==========
+Logging ended at: Fri May 25 22:02:45 2018
+
