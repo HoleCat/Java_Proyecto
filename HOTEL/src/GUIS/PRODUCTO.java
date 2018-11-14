@@ -28,7 +28,7 @@ public class PRODUCTO extends JDialog implements ActionListener, MouseListener {
 	private JLabel label;
 
 	/**
-	 * Launch the application.
+	 * Launch the application. bbbbbbbb
 	 */
 	public static void main(String[] args) {
 		try {
