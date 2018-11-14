@@ -12,7 +12,7 @@ public class PRUEBA extends JFrame {
 	private JPanel contentPane;
 
 	/**
-	 * Launch the application.
+	 * Launch the application. coommitttttttt
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
