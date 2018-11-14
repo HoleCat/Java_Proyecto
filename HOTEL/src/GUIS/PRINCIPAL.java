@@ -41,7 +41,7 @@ public class PRINCIPAL extends JFrame implements ActionListener {
 
 	/**
 <<<<<<< HEAD
-	 * Launch the application.mkknknkn  jorge
+	 * Launch the application.mkknknkn  jorge jorge2
 =======
 	 * Launch the application.mkknknkn arturo
 >>>>>>> branch 'master' of https://github.com/HoleCat/Java_Proyecto.git
