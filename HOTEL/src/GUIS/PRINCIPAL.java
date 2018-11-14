@@ -40,7 +40,11 @@ public class PRINCIPAL extends JFrame implements ActionListener {
 	private JMenuItem mntmNewMenuItem_12;
 
 	/**
+<<<<<<< HEAD
 	 * Launch the application.mkknknkn  jorge
+=======
+	 * Launch the application.mkknknkn arturo
+>>>>>>> branch 'master' of https://github.com/HoleCat/Java_Proyecto.git
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
